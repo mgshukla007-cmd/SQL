@@ -1,5 +1,6 @@
-MySQL : It is an open source relational database that uses structured query language to interact with databases.
-It stores data in form of table and can be modified using SQL.
+__MySQL__ : 
+- It is an open source relational database that uses structured query language to interact with databases.
+- It stores data in form of table and can be modified using SQL.
 
 Why MySQL?
 - Easy to use
