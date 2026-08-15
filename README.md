@@ -64,13 +64,17 @@ DML made any change can be reverted back or simply undo works here or Rollback i
 ---
 ---
 
-MySQL Workbench
+# MySQL Workbench
 SQL in Laptop
 
-double hyphen or -- to write a comment (just like # in Python)
-Semicolon or ; to be written after each command
-; denotes completion of a command
-Ctrl + Enter to execute a command (Just like Shift + Enter in Python)
+- double hyphen (`--`) to write a comment (just like `#` in Python).
+- Semicolon (`;`) to be written after each command.
+- semi colon (`;`) denotes completion of a command
+- `Ctrl` + `Enter` to __execute a command__ (Just like `Shift` + `Enter` in Python)
+
+__MySql Worlbench__: It is graphical tool developed  by `Oracle`, which is used to work with `MySQL server` and `Databases`.
+   - MySQL  provides `Data Modeling`, `SQL Development`, `Various administrations tools` for configration.
+## 1.__DDL__: (Data)
 
 
   
