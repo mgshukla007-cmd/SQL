@@ -72,9 +72,9 @@ SQL in Laptop
 - semi colon (`;`) denotes completion of a command
 - `Ctrl` + `Enter` to __execute a command__ (Just like `Shift` + `Enter` in Python)
 
-__MySql Worlbench__: It is graphical tool developed  by `Oracle`, which is used to work with `MySQL server` and `Databases`.
-   - MySQL  provides `Data Modeling`, `SQL Development`, `Various administrations tools` for configration.
-## 1.__DDL__: (Data)
+__MySql Workbench__: It is graphical tool developed by `Oracle`, which is used to work with `MySQL server` and `Databases`.
+   - MySQL provides `Data Modeling`, `SQL Development`, `Various administrations tools` for configuration.
+## 1. __DDL__: (Data)
 
 
   
