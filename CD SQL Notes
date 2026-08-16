@@ -1,0 +1,12 @@
+-- Data: Collection of Row data
+-- Database: Origanize collection of Data.
+-- Data Management System: It is sytem or Software that manage the data in CRUD(Create, Read, Update, Delete) system.
+
+-- Types of Data: Structure, Semi-Structured, Unstructured
+	-- Structured data: Tables, 2D data
+	-- Semi-structured: .json, .xml, .yml (Key- Value)
+	-- Unstructured data: Video, images, etc.
+-- Data ---> Database ---> DBMS
+-- Data Model: Data Schema/blueprint (logical structure - how data stored in Database)
+	-- Data models are Hierarchy model, Relational model(Tabel), Netwrok model, NoSql model(Mongo DB).
+-- -----------------------------------------------------------------------------------------------------------------------
